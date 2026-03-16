@@ -23,41 +23,41 @@ export default function Home() {
 
       <section className="container">
         <div style={{ textAlign: "center", marginBottom: "3rem" }}>
-          <h2>대상웰나움 프리미엄 Point</h2>
+          <h2>홍천 대상웰나움 만의 특화 가치</h2>
           <p style={{ margin: "0 auto" }}>완벽한 주거 환경을 위해 설계된 하이엔드 단지 특장점</p>
         </div>
         
         <div className="features-grid">
           <div className="feature-card">
-            <span className="feature-icon">🌳</span>
-            <h3>초록빛 쾌적한 자연환경</h3>
+            <span className="feature-icon">🅿️</span>
+            <h3>홍천 최대 주차공간 확보</h3>
             <p style={{ fontSize: "1rem", marginTop: "1rem", marginBottom: "0" }}>
-              단지 주변을 둘러싼 청정 자연과 도보 거리에 위치한 산책로가 
-              여유로운 힐링 라이프를 선사합니다.
+              세대당 주차대수 1.6대로 주차공간은 Full, 
+              주차 스트레스는 Zero! 여유로운 주차가 가능합니다.
+            </p>
+          </div>
+          <div className="feature-card">
+            <span className="feature-icon">🏞️</span>
+            <h3>홍천강 특급 파노라마 조망</h3>
+            <p style={{ fontSize: "1rem", marginTop: "1rem", marginBottom: "0" }}>
+              홍천강 조망권과 수변 산책로를 품은 친환경 라이프. 
+              홍천 시내까지 한눈에 펼쳐지는 확 트인 뷰를 누리세요.
             </p>
           </div>
           <div className="feature-card">
             <span className="feature-icon">🏫</span>
-            <h3>원스톱 명품 교육인프라</h3>
+            <h3>안심 도보통학과 최상위 학군</h3>
             <p style={{ fontSize: "1rem", marginTop: "1rem", marginBottom: "0" }}>
-              인근 명문 초·중·고 학군 밀집 지역으로 자녀들의 안전한 통학과 
-              우수한 면학 분위기가 보장됩니다.
+              홍천여중 최인접! 우수한 교육 프리미엄과 함께 
+              우리아이 안심 도보 통학이 가능한 명품 교육단지입니다.
             </p>
           </div>
           <div className="feature-card">
-            <span className="feature-icon">🚇</span>
-            <h3>사통팔달 쾌속 교통망</h3>
+            <span className="feature-icon">🏢</span>
+            <h3>압도적 규모의 커뮤니티</h3>
             <p style={{ fontSize: "1rem", marginTop: "1rem", marginBottom: "0" }}>
-              주요 도심 및 타 지역 입출입이 편리한 최상의 교통 인프라가 
-              당신의 소중한 시간을 절약해 드립니다.
-            </p>
-          </div>
-          <div className="feature-card">
-            <span className="feature-icon">💎</span>
-            <h3>하이엔드 평면 특화설계</h3>
-            <p style={{ fontSize: "1rem", marginTop: "1rem", marginBottom: "0" }}>
-              채광과 통풍을 극대화한 스마트 4Bay 구조와 넉넉한 펜트리 등 
-              혁신적인 공간 활용을 경험하세요.
+              피트니스센터, 클린워시존, 스터디룸&카페, 게스트룸,
+              키즈스테이션까지 입주민 전용 럭셔리 휴게공간을 제공합니다.
             </p>
           </div>
         </div>
